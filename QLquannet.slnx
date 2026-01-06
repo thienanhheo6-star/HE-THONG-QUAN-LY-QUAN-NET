@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BUS/BUS.csproj" Id="cd261df9-a8ba-49d4-a2c8-467b7fea73c8" />
+  <Project Path="DAL/DAL.csproj" Id="ad16728c-8f0a-43a9-b904-9e959b98508c" />
+  <Project Path="GUICLI/GUICLI.csproj" Id="0f1663e8-337f-4037-a2fd-d9160b71a118" />
+  <Project Path="QLQuanNet/GUI.csproj" Id="cd34a71e-012e-4433-9ae0-cc170d479dcb" />
+</Solution>
